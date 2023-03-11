@@ -1,6 +1,6 @@
 ### Itgelt Gankhulug @itka0526 <img align="center" src="https://github.com/itka0526/itka0526/blob/main/programmer.gif" width="40" height="40"/>
 
-Currently studying at RTU MIREA
+Currently studying at RTU MIREA, this is my [portfolio](https://itka0526.github.io/portfolio/).
 
 ### Technologies I love using <img align="center" src="https://github.com/itka0526/itka0526/blob/main/bookcase.gif" width="40" height="40"/>
 
