@@ -3,11 +3,6 @@
 Currently studying at RTU MIREA
 
 ### Libraries/frameworks I love ❤️‍🔥
-### 🧠 Itgelt Gankhulug @itka0526
-
-Currently studying at RTU MIREA
-
-### My techstack
 
 *   React.js
 *   TailwindCSS
