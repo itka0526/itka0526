@@ -1,4 +1,4 @@
-### 🧠 Itgelt Gankhulug @itka0526
+### Itgelt Gankhulug @itka0526 <img align="center" src="https://github.com/itka0526/itka0526/blob/main/programmer.png" width="22" height="22"/>
 
 Currently studying at RTU MIREA
 
