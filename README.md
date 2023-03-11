@@ -4,4 +4,4 @@ Currently studying at RTU MIREA
 
 ### My techstack
 
-*   ![](https://github.com/itka0526/itka0526/blob/main/typescript.png) TypeScript
+*   <img src="https://github.com/itka0526/itka0526/blob/main/typescript.png" width="22" height="22"> TypeScript
