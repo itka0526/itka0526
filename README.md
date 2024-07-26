@@ -38,7 +38,7 @@ Currently studying at RTU MIREA, 3rd year student, and this is my [portfolio](ht
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/cp.gif" width="22" height="22"> Novice in competitive programming
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/bench.gif" width="22" height="22"> Can bench press 70kg
 
-### Contacts <img align="center" src="https://github.com/itka0526/itka0526/blob/main/call.gif" width="32" height="32"/>
+### My contacts <img align="center" src="https://github.com/itka0526/itka0526/blob/main/call.gif" width="32" height="32"/>
 
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/facebook.gif" width="22" height="22"> [Facebook](https://www.facebook.com/itgeltultra/)
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/tg.gif" width="22" height="22"> [Telegram](https://t.me/itka0526)
