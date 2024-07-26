@@ -15,6 +15,7 @@ Currently studying at RTU MIREA, 3rd year student, and this is my [portfolio](ht
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/git.gif" width="22" height="22"> Git
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/linux.gif" width="22" height="22"> Linux
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/docker.gif" width="22" height="22"> Docker
+-   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/cisco.png" width="22" height="22"> Networking
 
 ### Programming languages I am proficient with <img align="center" src="https://github.com/itka0526/itka0526/blob/main/coding.gif" width="40" height="40"/>
 
@@ -36,3 +37,9 @@ Currently studying at RTU MIREA, 3rd year student, and this is my [portfolio](ht
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/russian.gif" width="22" height="22"> Intermediate in Russian
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/cp.gif" width="22" height="22"> Novice in competitive programming
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/bench.gif" width="22" height="22"> Can bench press 70kg
+
+### Contacts <img align="center" src="https://github.com/itka0526/itka0526/blob/main/call.gif" width="40" height="40"/>
+
+-   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/fb.gif" width="22" height="22"> [Facebook](https://www.facebook.com/itgeltultra/)
+-   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/tg.gif" width="22" height="22"> [Telegram](https://t.me/itka0526)
+-   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/email.gif" width="22" height="22"> [Gmail](mailto:itka0526@gmail.com)
