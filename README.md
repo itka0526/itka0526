@@ -15,7 +15,7 @@ Currently studying at RTU MIREA, 3rd year student, and this is my [portfolio](ht
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/git.gif" width="22" height="22"> Git
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/linux.gif" width="22" height="22"> Linux
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/docker.gif" width="22" height="22"> Docker
--   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/cisco.png" width="22" height="22"> Networking
+-   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/cisco.png" width="24" height="22"> Networking
 
 ### Programming languages I am proficient with <img align="center" src="https://github.com/itka0526/itka0526/blob/main/coding.gif" width="40" height="40"/>
 
