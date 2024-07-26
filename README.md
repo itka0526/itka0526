@@ -40,6 +40,6 @@ Currently studying at RTU MIREA, 3rd year student, and this is my [portfolio](ht
 
 ### Contacts <img align="center" src="https://github.com/itka0526/itka0526/blob/main/call.gif" width="32" height="32"/>
 
--   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/fb.gif" width="28" height="28"> [Facebook](https://www.facebook.com/itgeltultra/)
+-   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/fb.gif" width="22" height="22"> [Facebook](https://www.facebook.com/itgeltultra/)
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/tg.gif" width="22" height="22"> [Telegram](https://t.me/itka0526)
 -   <img align="center" src="https://github.com/itka0526/itka0526/blob/main/email.gif" width="22" height="22"> [Gmail](mailto:itka0526@gmail.com)
